@@ -10,7 +10,7 @@ There are many reasons why it is valuable for you to learn Linux. If you are loo
 After completing this course, you will have a solid introduction to working with Linux from the command line, using Red Hat Enterprise Linux 8 as a model. In applying these skills, you will be able to perform fundamental operational tasks, whether your Linux machine is on your desk or on a remote system across the Internet.
 
 ## Syllabus
-### [Week 1: Getting Started with Red Hat Enterprise Linux]
+### [Week 1: Getting Started with Red Hat Enterprise Linux](./Week1/README.md)
 Describe and define open source, Linux, Linux distributions, and Red Hat Enterprise Linux.
 
 ### [Week 2: Accessing the Command Line]
